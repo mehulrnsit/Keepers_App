@@ -3,8 +3,8 @@ import React from "react";
 function Note(){
     return (
         <div className="note">
-            <h1>Web Development</h1>
-            <p>Study Web Development course from udemy for atleast 2 hrs.</p>
+            <h1>This is the Title</h1>
+            <p>THis is the content</p>
         </div>
     );
 }
